@@ -33,7 +33,7 @@ function App() {
       <div className='container-fluid'>
         <div className='card'>
           <Profile
-            avatar={'./images/avatar-jessica.jpeg'}
+            avatar={'/images/avatar-jessica.jpeg'}
             name={'Jessica Randall'}
             location={'London, United Kingdom '}
             tagline={'"Front-end developer and avid reader."'}></Profile>
